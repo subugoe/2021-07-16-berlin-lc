@@ -377,7 +377,7 @@ and end easier to find.
 This is the other place where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
-{% endcomment %}
+
 
 <h2 id="setup">Setup</h2>
 
@@ -399,7 +399,7 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
-
+{% endcomment %}
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
